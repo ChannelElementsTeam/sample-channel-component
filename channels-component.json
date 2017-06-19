@@ -1,0 +1,7 @@
+{
+  "componentName": "channels-sample",
+  "description": "This is a fully functional sample ChannelElements-compatible web component",
+  "composerTag": "channels-sample-composer",
+  "viewerTag": "channels-sample-viewer",
+  "importHtmlFilename": "channels-sample.html"
+}
